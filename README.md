@@ -1,6 +1,6 @@
 # This is my personal website
 
- You can check it out at this [SITE](http://deanlan.me)
+ You can check it out at this [SITE](http://deanlan.github.io)
 
  This site use [HPSTR Jekyll Theme](https://github.com/mmistakes/hpstr-jekyll-them://github.com/mmistakes/hpstr-jekyll-theme)
 
